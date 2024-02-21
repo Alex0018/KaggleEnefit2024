@@ -1,8 +1,8 @@
 Detailed description in
-Enefit LGB solution.pdf
+<Enefit LGB solution.pdf>
+
 
 Competition:
-
 https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers
 
 
